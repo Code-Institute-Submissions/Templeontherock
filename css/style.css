@@ -1,0 +1,786 @@
+
+
+    a.navbar-brand.nav-left.head-mobile {
+  color:white;
+  margin-left: 5px;
+}
+
+
+@media only screen and (max-width: 599px) {
+    /* For mobile: */
+    .col-smalldevice-1 {width: 8.33%;}
+    .col-smalldevice-2 {width: 16.66%;}
+    .col-smalldevice-3 {width: 25%;}
+    .col-smalldevice-4 {width: 33.33%;}
+    .col-smalldevice-5 {width: 41.66%;}
+    .col-smalldevice-6 {width: 50%;}
+    .col-smalldevice-7 {width: 58.33%;}
+    .col-smalldevice-8 {width: 66.66%;}
+    .col-smalldevice-9 {width: 75%;}
+    .col-smalldevice-10 {width: 83.33%;}
+    .col-smalldevice-11 {width: 91.66%;}
+    .col-smalldevice-12 {width: 100%;}
+
+
+section.intro{
+    margin-top: 0px;
+    margin-left: -15px;
+   
+    margin-right: -40px;
+}
+
+li.hide-in-smallscreen {
+    visibility: hidden;
+}
+
+
+ul.nav.navbar-nav {
+     margin-left: 0%; 
+    margin-bottom: 10px;
+}
+
+
+ a.dropdown-toggle{
+    margin-top: 20px;
+    background-color:black;
+ }   
+
+.hide{
+    visibility: hidden;
+}
+
+footer.footer-album{
+    margin-top: 800px;
+}
+div.main-mobile-about{
+    margin-top: 120px;
+    margin-left: 0px;
+    width:160%;
+}
+footer.footer-mobile-merch{
+    top: 1200px;
+    position: absolute;
+}
+
+div.col-sm-3.col-md-6.vinyl-record{
+    background-position:0% !important;
+    width:100% !important;
+}
+
+
+
+div.album-info-mobile{
+    width:100% !important;
+}
+
+div.row-2-merch{
+    margin-left: 75px;
+}
+
+div.three-img-div.section4.main-mobile-about.width{
+    width:110%;
+}
+
+div.mobile-merch-concert{
+    visibility: hidden;
+}
+    div.col-sm-1.seven-rows-images {
+        width: 187px;
+        height: 280px;
+        margin: 7px;
+        box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    }
+
+
+    img.five-stars-reviews{
+        visibility: visible;
+    } 
+
+    
+
+    h1.intro-h1 {
+        margin-top: 40%;
+        color: white;
+        font-size: 45px;
+        font-family: montserrat;
+        text-shadow: 2px 2px black;
+        font-weight: 800;
+        text-align: center;
+    }
+
+    h2.seven-rows-images-h2{
+        font-weight: 600;
+    font-family: montserrat;
+    }
+
+    
+
+    div.center-txt-review{
+        left: 220px;
+    }
+
+    div.col-sm-4.three-rows-images {
+        width: 100%; 
+        height: 500px;
+        box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+
+
+a.hide-in-smallscreen{
+    visibility: hidden;
+}
+
+    div.hide-in-smallscreen{
+        visibility: hidden;
+    }
+    img.hide-in-smallscreen{
+        visibility: hidden;
+    }
+
+    ul.hide-in-smallscreen{
+        visibility: hidden;
+    }
+    div.hidden-review{
+        visibility: visible;  
+    }
+
+    div p.review-1 {
+    position: absolute;
+    left: 200px;
+    top: 1480px;
+    height: 125px;
+    visibility: visible ;
+}
+
+span.tour{
+    font-size:50px;
+}
+
+    .button1 {
+        background-image: linear-gradient(to right, #870000 0%, #190A05 51%, #870000 100%);
+        background-position: right center;
+        padding: 16px 33px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 4px 2px;
+        border: none;
+        font-family: montserrat;
+        font-weight: bold;
+        font-size: 25px;
+    }
+    div.three-rows-images-pic1{
+        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/bandmember-1.jpg);
+         background-size: cover;
+    }
+    
+    div.three-rows-images-pic2{
+        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/bandmember-2.jpg);
+         background-size: cover;
+    }
+    div.three-rows-images-pic3{
+        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/singer1.jpeg);
+         background-size: cover;
+    }
+    div.three-img-div.section4 {
+        position: absolute;
+        top: 3900px;
+        width: 100%;
+        left: 0px;
+    }
+
+div.container-fluid.tour-container-mobile{
+    margin-top: 0px!important;
+    padding: 0px;
+}
+
+li.hide-in-smallscreen {
+    position: relative;
+    display: block;
+    height: 5px;
+}
+
+span.mobile-nav-spac{
+    margin-left: 15px;
+}
+
+div.image img{
+    width: 110%;
+    height:500px;
+}
+
+
+div.div-space1 {
+   height: 0px!important;
+}
+
+div.col-lg-6.col-sm-12.right-3rd-section{
+    visibility: visible;
+    margin-bottom: -20px;
+}
+
+div.right-3rd-section {
+    visibility: hidden;
+}
+footer.footer-mobile.tour-footer{
+    margin-top: 0px!important;
+}
+
+
+body{
+    overflow-x: hidden;
+    }
+
+
+    div.mobile-2-rows{
+        display: inline-block;
+    }
+
+    div.left-3rd-section{
+        display : flex;
+        justify-content : center;
+        align-items : center;
+        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-23.jpg);
+        height : 800px;
+        background-size: cover;
+        width: 110%;
+      }
+
+      div.black-space{
+          height:25px;
+      }
+
+      
+      .right{
+        display : flex;
+        justify-content : center;
+        align-items : center;
+        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-9-1.png);
+        height : 600px;
+        background-size: cover;
+        margin-top: -30px;
+      }
+div.h1-space{
+    height:100px;
+}
+
+
+      .left{
+        
+        justify-content : center;
+        align-items : center;
+        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-8.jpg);
+        height : 600px;
+        background-size: cover;
+        margin-top: -170px;
+      }
+
+     a.navbar-brand.head-mobile{
+        color: #fbfafa;
+        text-align: center;
+        vertical-align: middle;
+        margin-left: 135px;
+     }
+
+footer.footer-mobile{
+    background-color: black;
+    height: 200px;
+    vertical-align: middle;
+    text-align: center;
+    position: absolute;
+    top: 5450px;
+    width: 110%;
+}
+div.column.column-footer{
+    margin-top: 50px;
+    color: white;
+}
+
+div.container-head-mobile{
+    background-color: black;
+    width: 110%;
+}
+
+div.head-mobile{
+    background-color: black;
+}
+
+div.container-fluid.tour-container-mobile{
+    width: 110%!important;
+}
+ul.nav.navbar-nav{
+    margin-left: 10px;
+}
+
+div.col-lg-6.col-sm-12.left{
+    margin-top: 5px;
+    width: 110%;
+}
+
+div.three-img-div.section4.home-mobile {
+    margin-top: -70px;
+    width: 120%;
+    
+}
+
+footer.footer-mobile.home-footer {
+    background-color: black;
+    height: 200px;
+    vertical-align: middle;
+    text-align: center;
+    position: absolute;
+    top: 5650px;
+    width: 130%;
+}
+
+div.image.cut img {
+    visibility: hidden;
+}
+
+div.col-lg-6.col-sm-12.right{
+    margin-top: 5px;
+    width: 110%;
+}
+
+      li.hide-in-bigscreen{
+        visibility: visible;
+        margin-left: 10px;
+    word-spacing: 15px;
+    } 
+
+    li.hide-in-smallscreen{
+        visibility: hidden;
+    } 
+
+    li.menu-bar{
+        margin-top: -40px;
+    }
+
+    ul.dropdown-menu li{
+padding-top: 10px;
+    }
+
+    nav.navbar.navbar-inverse {
+        background-color: #222;
+        border-color: #080808;
+        margin-left: -15px;
+        margin-right: -40px;
+    }
+    
+}
+
+
+
+
+@media only screen and (min-width: 900px) {
+
+
+.container{
+    margin-left:10px;
+}
+.three-rows-images-h2{
+margin-left:50px;
+margin-top:50px;
+color: #484848;
+font-size:35px;
+}
+
+
+ul.navbar-right {
+    float: right!important;
+    margin-right: 25px;
+}
+
+
+a.navbar-brand{
+    margin-left: 10px; 
+}
+
+
+.seven-rows-images-h2{
+margin-left:20px;
+margin-top:30px;
+
+color: #484848;
+font-size:35px;
+}
+
+img.seven-rows-images{
+  
+  margin:5px;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+
+}
+div.three-rows-images{
+width:30%;
+height:500px;
+box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+
+margin-left:10px;
+margin-right:10px;
+}
+
+
+div.col-sm-1.seven-rows-images{
+width:15%;
+height:280px;
+margin:7px;
+margin-top: 150px;
+box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.container-fluid{
+background-image:url("airbnb1.jpg");
+height:0px;
+margin-top:100px;
+margin-bottom:100px;
+
+}
+
+body{
+overflow-x: hidden;
+}
+
+div.column-footer{
+    text-align:center;
+
+}
+
+img.two-intro-images{
+    height:600px;
+    width:50%;
+     margin:-5px;
+    padding:0px;
+}
+
+img.half-length-images{
+    height:600px;
+    width:50%;
+     margin:-5px;
+    padding:0px;
+}
+
+
+div.three-img-div{
+    margin-bottom:200px;
+    margin-left:40px;
+}
+
+img.two-small-images{
+    width:25%;
+    height:600px;
+     margin:-5px;
+    padding:0px;
+}
+
+h1{
+    color:white;
+    font-size:50px;
+    font-family:montserrat;
+    font-weight: bold;
+}
+
+footer{
+    height:200px;
+    background-color:black;
+    position: absolute;
+    top: 2900px;
+    width:100%;
+}
+
+div.middle-section{
+    margin-left:20%;
+    margin-right:20%;
+    background-image:url("airbnb1.jpg");
+}
+
+div.section2{
+    margin-top:90px;
+    margin-bottom:75px;
+    margin-left:50px;
+}
+
+div.section4{
+    margin-top:90px;
+    margin-bottom:75px;
+    margin-left:70px;
+    
+}
+
+span.glyphicon{
+    margin:15px;
+}
+
+
+
+nav.navbar.navbar-inverse {
+    background-color: #000;
+    border-color: #060606;
+    border-radius: 0px;
+}
+
+h1.intro-h1{
+    margin-top:40%;
+    color: white;
+    font-size: 45px;
+    font-family: montserrat;
+    text-shadow: 2px 2px black;
+    font-weight: 800;
+    text-align: center;
+    
+}
+
+div.section-above-footer{
+    margin-top:75px;
+}
+
+div.col-lg-6.col-sm-12.right-3rd-section{
+    margin:0px;
+    padding:0px;
+    height:600px;
+}
+
+div.left-3rd-section{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-23.jpg);
+  height : 800px;
+  background-size:cover;
+}
+
+div.right-3rd-section {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+span.tour{
+    font-size: 65px;
+}
+div.right-3rd-section img {
+ width:337px;
+  height:400px;
+}
+
+
+div.three-rows-images {
+    width: 30%;
+    height: 500px;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.left{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-8.jpg);
+  height : 600px;
+  background-size: cover;
+  margin-top: -30px;
+}
+
+.right{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-9.jpg);
+  height : 600px;
+  background-size: cover;
+  margin-top: -30px;
+}
+
+div.col-smalldevice-5:hover{
+background-image: linear-gradient(90deg, #0457a5 0%, #486fb662 100%); 
+}
+
+div.container-fluid{
+    margin:0px;
+    padding:0px;
+    width:100%;
+    
+    
+}
+
+button.button1{
+    margin-left: 0px;
+}
+
+.button1 {
+    background-image: linear-gradient(to right, #870000 0%, #190A05 51%, #870000 100%);
+  
+  
+  background-position: right center;
+  padding: 16px 33px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+  margin: 4px 2px;
+  border:none;
+  font-family: montserrat;
+  font-weight:bold ;
+  font-size: 25px;
+}
+
+
+
+h3{
+    font-weight: 700;
+}
+
+.intro{
+  height:100%;
+      width:100%;
+}
+
+
+
+div.three-rows-images-pic1{
+    background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/bandmember-1.jpg);
+     background-size: cover;
+}
+
+div.three-rows-images-pic2{
+    background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/bandmember-2.jpg);
+     background-size: cover;
+}
+div.three-rows-images-pic3{
+    background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/singer1.jpeg);
+     background-size: cover;
+}
+
+div.hide-in-bigscreen{
+    visibility: hidden;
+}
+
+
+
+div.section4{
+    position: absolute;
+    top:2100px;
+    width:1200px;
+    left:30px;
+}
+
+div.column-footer{
+    font-size: 15px;
+    color: white;
+    margin-top: 50px;
+}
+
+
+img.five-stars-reviews{
+    visibility: hidden;
+}
+
+
+li.hide-in-bigscreen{
+    visibility: hidden;
+}
+
+
+h2.seven-rows-images-h2{
+    font-weight: 600;
+font-family: montserrat;
+}
+
+div.hidden-review{
+    visibility: hidden;  
+    margin-bottom:-150px
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 1100px) {
+    div.three-rows-images {
+        width: 30%;
+        height: 500px;
+        box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+        margin-left: 10px;
+        margin-right: 10px;
+
+    }
+    h1.intro-h1 {
+        margin-top: 0%; 
+    }
+    body{
+        overflow-x: hidden;
+        }
+
+        div.section4 {
+            position: absolute;
+            top: 2500px;
+            width: 900px;
+            left: 0px; 
+        }
+        footer {
+            height: 200px;
+            background-color: black;
+            position: absolute;
+            top: 3200px;
+            width: 100%;
+        }
+
+        div.right-3rd-section {
+            visibility: hidden;
+        }
+    }
+    
+    ul.nav.navbar-nav{
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+    
+
+
+        div.col-sm-4 {
+            background-size: 100% 100%;
+        }
+        
+        
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+          }
+          
+          th, td {
+            text-align: left;
+            padding: 12px;
+            font-size: 25px;
+          }
+          
+          tr:nth-child(even) {background-color: #f2f2f2;}
+
+          
+          
+          div.div-space1{
+            height:50px;
+        }
+
+          div.div-space2{
+              height:200px;
+          }
+
+          div.full-color-pic{
+            background-image: linear-gradient(to right, #870000 0%, #190A05 51%, #870000 100%);
+            height:300px;
+            width:100%;
+          }
+
+          body.merchandise-page{
+              height:600px;
+          }
+
+          div.about-row-page{
+              margin-left: 22.5%;
+          }

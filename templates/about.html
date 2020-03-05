@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="C:/Users/User/Desktop/warner-bros-mockup/css/style.css" type="text/css" >
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script>
+function mOver(obj) {
+  obj.innerHTML = "Luke Ryan"
+ 
+  document.getElementById("event-dom-name").setAttribute(
+"style","font-size: 50px; font-style: italic; color:blue;"
+    );
+}
+function mOut(obj) {
+  obj.innerHTML = "Name"
+} 
+
+function mOver2(obj) {
+  obj.innerHTML = "Lisa Thompson"
+  document.getElementById("event-dom-name-2").setAttribute(
+"style","font-size: 50px; font-style: italic; color:blue;"
+    );
+  
+
+}
+
+function mOver3(obj) {
+  obj.innerHTML = "George O'mara"
+ document.getElementById("event-dom-name-3").setAttribute(
+"style","font-size: 50px; font-style: italic; color:blue;"
+    );
+
+} 
+///comments
+</script>
+
+<style>
+body{
+  height:900px;
+}
+</style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid container-head-mobile">
+    <div class="navbar-header">
+      <a class="navbar-brand nav-left head-mobile" href="C:/Users/User/Desktop/warner-bros-mockup/templates/home.html">Temple on the rock</a>
+    </div>
+    <ul class="nav navbar-nav">
+      
+       <li class=" hide-in-bigscreen ">
+        <ul class="">
+          <li style="display:inline-block;"><a href="C:/Users/User/Desktop/warner-bros-mockup/templates/albums.html" style="color: white;">Albums</a> <a href="C:/Users/User/Desktop/warner-bros-mockup/templates/merchandise.html" style="color: white;">Merchandise</a></li>
+          <li style="display:inline-block;"><a href="C:/Users/User/Desktop/warner-bros-mockup/templates/tour.html" style="color: white;">Tour</a><span class="mobile-nav-spac"></span><a href="C:/Users/User/Desktop/warner-bros-mockup/templates/about.html" style="color: white;">About </a></li><br>
+         
+        </ul>
+      </li>
+      <li class="hide-in-smallscreen"><a href="C:/Users/User/Desktop/warner-bros-mockup/templates/albums.html" style="color: white;">Albums</a></li>
+
+      
+      
+      <li class="hide-in-smallscreen"><a href="C:/Users/User/Desktop/warner-bros-mockup/templates/tour.html" style="color: white;">Tour</a></li>
+      <li class="hide-in-smallscreen"><a href="C:/Users/User/Desktop/warner-bros-mockup/templates/merchandise.html" style="color: white;">Merchandise</a></li>
+      <li class="hide-in-smallscreen"><a href="C:/Users/User/Desktop/warner-bros-mockup/templates/about.html" style="color: white;">About the band</a></li>
+    </ul>
+    
+  </div>
+</nav>
+
+
+
+<section  >
+
+<div class="three-img-div section4 main-mobile-about width" style="top:0px;">
+<p class="" style="font-size:30px; font-family: montserrat; font-weight: 600;">The band</p>
+<div class="row">
+    
+   <! –– ––> <div id="event-dom-name"onmouseover="mOver(this)" onmouseout="mOut(this)"  class="col-sm-4 three-rows-images three-rows-images-pic1 img-responsive" style=""></div>
+    <div id="event-dom-name-2"onmouseover="mOver2(this)" onmouseout="mOut(this)"  class="col-sm-4 three-rows-images three-rows-images-pic2 img-responsive" style=""></div>
+    <div id="event-dom-name-3" onmouseover="mOver3(this)" onmouseout="mOut(this)"  class="col-sm-4 three-rows-images three-rows-images-pic3 img-responsive" style=""></div>
+    
+  </div>
+</div>
+</div>
+</div>
+
+</section>
+
+
+<footer class="footer-mobile footer-album" style="top:900px;"><! –– ––>
+<div class="container" >
+<div class="row">
+<div class="column column-footer">
+
+  <p>Contact information: <a href="">band@example.com</a>.</p>
+
+
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>
