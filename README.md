@@ -3,6 +3,7 @@
 Objective
 To create a stunning responsive website for a rock band that would persuade users to take action and to promote new tours, albums and merchandise.
 Project’s Core Functionality
+
 •	Standalone design
 I really wanted to push the design and images to make the website visually stunning by using unique and different designs for each block of the website (Tour, Merchandise, About the band and Albums)
 
