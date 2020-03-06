@@ -173,7 +173,7 @@ span.tour{
         font-size: 25px;
     }
     div.three-rows-images-pic1{
-        background:url(images/bandmember-1.jpg);
+        background-image:url(images/bandmember-1.jpg);
          background-size: cover;
     }
     
