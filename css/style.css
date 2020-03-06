@@ -173,16 +173,16 @@ span.tour{
         font-size: 25px;
     }
     div.three-rows-images-pic1{
-        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/bandmember-1.jpg);
+        background-image:url(images/bandmember-1.jpg);
          background-size: cover;
     }
     
     div.three-rows-images-pic2{
-        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/bandmember-2.jpg);
+        background-image:url(bandmember-2.jpg);
          background-size: cover;
     }
     div.three-rows-images-pic3{
-        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/singer1.jpeg);
+        background-image:url(images/singer1.jpeg);
          background-size: cover;
     }
     div.three-img-div.section4 {
@@ -243,7 +243,7 @@ body{
         display : flex;
         justify-content : center;
         align-items : center;
-        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-23.jpg);
+        background-image:url(images/pic-23.jpg);
         height : 800px;
         background-size: cover;
         width: 110%;
@@ -258,7 +258,7 @@ body{
         display : flex;
         justify-content : center;
         align-items : center;
-        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-9-1.png);
+        background-image:url(images/pic-9-1.png);
         height : 600px;
         background-size: cover;
         margin-top: -30px;
@@ -272,7 +272,7 @@ div.h1-space{
         
         justify-content : center;
         align-items : center;
-        background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-8.jpg);
+        background-image:url(images/pic-8.jpg);
         height : 600px;
         background-size: cover;
         margin-top: -170px;
@@ -547,7 +547,7 @@ div.left-3rd-section{
   display : flex;
   justify-content : center;
   align-items : center;
-  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-23.jpg);
+  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(images/pic-23.jpg);
   height : 800px;
   background-size:cover;
 }
@@ -579,7 +579,7 @@ div.three-rows-images {
   display : flex;
   justify-content : center;
   align-items : center;
-  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-8.jpg);
+  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(images/pic-8.jpg);
   height : 600px;
   background-size: cover;
   margin-top: -30px;
@@ -589,7 +589,7 @@ div.three-rows-images {
   display : flex;
   justify-content : center;
   align-items : center;
-  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(C:/Users/User/Desktop/warner-bros-mockup/images/pic-9.jpg);
+  background-image: linear-gradient(0deg, rgba(10,10,10,1) 0%, rgba(43,43,43,0.5018382352941176) 31%, rgba(188,171,163,0) 70%),url(images/pic-9.jpg);
   height : 600px;
   background-size: cover;
   margin-top: -30px;
@@ -642,16 +642,16 @@ h3{
 
 
 div.three-rows-images-pic1{
-    background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/bandmember-1.jpg);
+    background-image:url(images/bandmember-1.jpg);
      background-size: cover;
 }
 
 div.three-rows-images-pic2{
-    background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/bandmember-2.jpg);
+    background-image:url(images/bandmember-2.jpg);
      background-size: cover;
 }
 div.three-rows-images-pic3{
-    background-image:url(C:/Users/User/Desktop/warner-bros-mockup/images/singer1.jpeg);
+    background-image:url(images/singer1.jpeg);
      background-size: cover;
 }
 
