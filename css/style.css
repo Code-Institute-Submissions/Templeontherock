@@ -641,16 +641,16 @@ h3{
 
 
 
-div.three-rows-images-pic1{
+div.col-sm-4.three-rows-images.three-rows-images-pic1,img-responsive{
     background-image:url(images/bandmember-1.jpg);
      background-size: cover;
 }
 
-div.three-rows-images-pic2{
+div.col-sm-4.three-rows-images.three-rows-images-pic1,img-responsive{
     background-image:url(images/bandmember-2.jpg);
      background-size: cover;
 }
-div.three-rows-images-pic3{
+div.col-sm-4.three-rows-images.three-rows-images-pic1,img-responsive{
     background-image:url(images/singer1.jpeg);
      background-size: cover;
 }
