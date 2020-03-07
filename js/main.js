@@ -7,9 +7,9 @@ function mOver(obj) {
   }
 
   ///comments
-  function mOut(obj) {
-    obj.innerHTML = "Name"
-  } 
+  //function mOut(obj) {
+   // obj.innerHTML = ""
+  //} 
   
   function mOver2(obj) {
     obj.innerHTML = "Lisa Thompson"
