@@ -7,10 +7,22 @@ function mOver(obj) {
   }
 
   ///comments
-  //function mOut(obj) {
-   // obj.innerHTML = ""
-  //} 
+function mOut3(obj) {
+    obj.innerHTML = ""
+      document.getElementById("event-dom-name-2").setAttribute(
+  "style","background-image:url(images/singer1.jpeg);");
+  } 
+  function mOut2(obj) {
+    obj.innerHTML = ""
+      document.getElementById("event-dom-name-2").setAttribute(
+  "style","background-image:url(images/bandmember-2.jpg);");
+  } 
   
+function mOut1(obj) {
+    obj.innerHTML = ""
+      document.getElementById("event-dom-name-2").setAttribute(
+  "style","background-image:url(images/bandmember-1.jpg);");
+  } 
   function mOver2(obj) {
     obj.innerHTML = "Lisa Thompson"
     document.getElementById("event-dom-name-2").setAttribute(
