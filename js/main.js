@@ -9,7 +9,7 @@ function mOver(obj) {
   ///comments
 function mOut3(obj) {
     obj.innerHTML = ""
-      document.getElementById("event-dom-name-2").setAttribute(
+      document.getElementById("event-dom-name-3").setAttribute(
   "style","background-image:url(images/singer1.jpeg);");
   } 
   function mOut2(obj) {
@@ -20,7 +20,7 @@ function mOut3(obj) {
   
 function mOut1(obj) {
     obj.innerHTML = ""
-      document.getElementById("event-dom-name-2").setAttribute(
+      document.getElementById("event-dom-name-1").setAttribute(
   "style","background-image:url(images/bandmember-1.jpg);");
   } 
   function mOver2(obj) {
