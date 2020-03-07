@@ -20,7 +20,7 @@ function mOut3(obj) {
   
 function mOut1(obj) {
     obj.innerHTML = ""
-      document.getElementById("event-dom-name-1").setAttribute(
+      document.getElementById("event-dom-name").setAttribute(
   "style","background-image:url(images/bandmember-1.jpg);");
   } 
   function mOver2(obj) {
