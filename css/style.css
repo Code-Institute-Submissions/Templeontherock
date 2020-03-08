@@ -292,7 +292,7 @@ footer.footer-mobile{
     text-align: center;
     position: absolute;
     top: 5450px;
-    width: 110%;
+     width: 110%!important;
 }
 div.column.column-footer{
     margin-top: 50px;
