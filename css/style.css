@@ -246,7 +246,7 @@ body{
         background-image:url(images/pic-23.jpg);
         height : 800px;
         background-size: cover;
-        width: 110%;
+        width: 100%;
       }
 
       div.black-space{
@@ -309,7 +309,7 @@ div.head-mobile{
 }
 
 div.container-fluid.tour-container-mobile{
-    width: 110%!important;
+    width: 100%!important;
 }
 ul.nav.navbar-nav{
     margin-left: 10px;
@@ -317,7 +317,7 @@ ul.nav.navbar-nav{
 
 div.col-lg-6.col-sm-12.left{
     margin-top: 5px;
-    width: 110%;
+    width: 100%;
 }
 
 div.three-img-div.section4.home-mobile {
@@ -342,7 +342,7 @@ div.image.cut img {
 
 div.col-lg-6.col-sm-12.right{
     margin-top: 5px;
-    width: 110%;
+    width: 100%;
 }
 
       li.hide-in-bigscreen{
