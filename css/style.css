@@ -40,6 +40,11 @@ ul.nav.navbar-nav {
 }
 
 
+html {
+    overflow: hidden;
+}    
+    
+    
  a.dropdown-toggle{
     margin-top: 20px;
     background-color:black;
