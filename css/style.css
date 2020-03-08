@@ -125,7 +125,7 @@ div.mobile-merch-concert{
     }
 
     div.col-sm-4.three-rows-images {
-        width: 100%; 
+        width: 365px; 
         height: 500px;
         box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
         margin-left: 10px;
@@ -251,7 +251,7 @@ body{
         background-image:url(images/pic-23.jpg);
         height : 800px;
         background-size: cover;
-        width: 100%;
+        width: 375px;
       }
 
       div.black-space{
@@ -306,7 +306,7 @@ div.column.column-footer{
 
 div.container-head-mobile{
     background-color: black;
-    width: 110%;
+    
 }
 
 div.head-mobile{
@@ -338,7 +338,7 @@ footer.footer-mobile.home-footer {
     text-align: center;
     position: absolute;
     top: 5550px;
-    width: 130%;
+    width: 365px!important;
 }
 
 div.image.cut img {
