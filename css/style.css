@@ -92,6 +92,7 @@ div.mobile-merch-concert{
     div.col-sm-1.seven-rows-images {
         width: 187px;
         height: 280px;
+        background-position: 50% 50%;
         margin: 7px;
         box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
     }
@@ -382,6 +383,11 @@ padding-top: 10px;
 
 @media only screen and (min-width: 900px) {
 
+div.col-sm-1.seven-rows-images {
+        
+        background-position: 50% 50%;
+        
+    }
 
 .container{
     margin-left:10px;
