@@ -108,17 +108,12 @@ merchandise
 •	Footer
 
  contact
+ 
+ 
+ 
+ 
 Project Deployment
 
 
-Credits and Acknowledgements
-•	W3schools
-•	Quora 
-•	cssgradient.io
-•	Stack overflow 
-•	CSS Tutorial - Tutorialspoint
 
-•	www.csstutorial.net
-
-•	developer.mozilla.org
 
