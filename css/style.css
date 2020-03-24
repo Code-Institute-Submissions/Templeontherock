@@ -21,7 +21,13 @@
     .col-smalldevice-11 {width: 91.66%;}
     .col-smalldevice-12 {width: 100%;}
 
-
+div.studio-picture{
+width:110%;
+    }
+    
+    
+    
+    
 section.intro{
     margin-top: 0px;
     margin-left: -15px;
