@@ -1,4 +1,5 @@
 ﻿# Templeontherock
+Live website below
 
 https://anthony-keogh.github.io/Templeontherock/
 
@@ -55,6 +56,8 @@ To give the user a good reason to follow the up and coming albums, tours and mer
 
 # Home
 
+https://anthony-keogh.github.io/Templeontherock/
+
 1	Tour
 
 2	Band
@@ -69,6 +72,8 @@ To give the user a good reason to follow the up and coming albums, tours and mer
 
 # Albums
 
+https://anthony-keogh.github.io/Templeontherock/albums.html
+
 1	New album
 
 2	Collection of all albums
@@ -80,6 +85,8 @@ To give the user a good reason to follow the up and coming albums, tours and mer
 
 # Tour
 
+https://anthony-keogh.github.io/Templeontherock/tour.html
+
 1	Concert dates
 
 2	Gallery of tour
@@ -87,6 +94,8 @@ To give the user a good reason to follow the up and coming albums, tours and mer
 3	Images of live concerts
 
 # Merchandise
+
+https://anthony-keogh.github.io/Templeontherock/merchandise.html
 
 1	T-shirts for sale
 
@@ -96,6 +105,8 @@ To give the user a good reason to follow the up and coming albums, tours and mer
 
 
 # The band(about)
+
+https://anthony-keogh.github.io/Templeontherock/about.html
 
 1	Each of the band member stories
 
