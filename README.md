@@ -55,48 +55,53 @@ Content
 
 Home
 
-•	Tour
+1	Tour
 
-•	Band
+2	Band
 
-•	Albums
+3	Albums
 
-•	Gallery of tour
+4	Gallery of tour
 
-•	About the band
+5	About the band
 
 
 
 Albums
-•	New album
 
-•	Collection of all albums
+1	New album
 
-•	Recording the album in studio
+2	Collection of all albums
 
-•	What the songs were about
+3	Recording the album in studio
+
+4	What the songs were about
 
 
 Tour
 
-•	Concert dates
+1	Concert dates
 
-•	Gallery of tour
+2	Gallery of tour
 
-•	Images of live concerts
+3	Images of live concerts
 
 Merchandise
 
-•	T-shirts for sale
+1	T-shirts for sale
 
-•	Hoodies for sale
+2	Hoodies for sale
 
-•	Images of tour
+3	Images of tour
+
+
 The band(about)
 
-•	Each of the band member stories
+1	Each of the band member stories
+
 
 UX 
+
 •	achieving the main goal and functions
 
 As mention above the main functions of the website were 
@@ -109,21 +114,27 @@ As mention above the main functions of the website were
       So the user experience was based on these factors and every decision was built around whether it improved these three functions or not.
 
 •	user-friendly
+
 This was the most important factor when analysing user experience for both the user and the browser to recognise it as a well run website. The navigation, aesthetics and the familiarity was on point and i made it very simple to use. 
 
 •	behavioural psychology
+
 i Incorporated different design, images, fonts and words to get the user to feel a certain way to increase the chance of them taking actions and coming back to the website for a second visit.
 
 •	optimised website goals
+
 i put in place solid ux methods and steps that will give the website a platform on how to improve going forward and a measuring tool to analyse what didn’t go well and what was a success.
 
 •	making the website interesting
+
 the website has character and a show topping design to make the user browse more around the website and stay on that website a little longer to increase the odds of a great user experience and ultimately enhance the satisfaction of the consumer
 
 •	selling the product 
+
 what the end result boils down to was whether the user will take action and by having all these ux steps and processes in place it will give the rock band a better percentage of the user actually following up and buying items or tickets on the website.
 
 •	Wireframe diagram
+
 I have provide a very simple wireframe to understand for this website that highlights the importance that each section of the website had, be it albums, tours, merchandise and about the band.
 
 
@@ -164,10 +175,16 @@ Project Approach
 Navigate through the four other pages with ease
 •	Main body
 
-Tour
-Albums
-About the band
-merchandise
+
+1. Tour
+
+2. Albums
+
+3. About the band
+
+4. merchandise
+
+
 
 •	Footer
 
