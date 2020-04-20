@@ -2,7 +2,7 @@
 
 https://anthony-keogh.github.io/Templeontherock/
 
-Objective
+# -------Objective----------
 
 To create a stunning responsive website for a rock band that would persuade users to take action and to promote new tours, albums and merchandise.
 Project’s Core Functionality
@@ -20,7 +20,7 @@ The goal is to make the experience and navigation look effortless through each p
 
 To give the user a good reason to follow the up and coming albums, tours and merchandise by enjoying the first experience they have on the website to make them return again.
 
-Technologies Used
+# ----------Technologies Used-----------------
 
 •	Html5
 
@@ -44,14 +44,14 @@ Technologies Used
 
 
 
------Testing-----
+# -----Testing-----
 
 •	The majority of the testing took part in Chrome and Microsoft Explorer developer tools to test the responsiveness of the website from one device be it small smart phone up to a desktop layout of the website, then i had to marry this with different browsers.
 
 •	There were many challenges in fitting what content and design i want to put into each device and which to take out for the good of the website. There was also slight variation between what you can do in each browser, but the majority between google and Microsoft explorer were similar.
 
 
-------Content-----
+# ------Content-----
 
 # Home
 
@@ -100,7 +100,7 @@ Technologies Used
 1	Each of the band member stories
 
 
---------UX --------------
+# --------User Experience --------------
 
 •	achieving the main goal and functions
 
@@ -138,7 +138,7 @@ what the end result boils down to was whether the user will take action and by h
 I have provide a very simple wireframe to understand for this website that highlights the importance that each section of the website had, be it albums, tours, merchandise and about the band.
 
 
-----------UI--------------
+# ----------User Interface--------------
 
 •	My goal as the user interface developer was to make the user's interaction as simple and efficient as possible which i think i have achive through user-centered design.
 
@@ -152,7 +152,7 @@ I have provide a very simple wireframe to understand for this website that highl
 
 
 
-# File Management
+# ------- File Management------------
 
 •	CSS(folder)
 
@@ -169,7 +169,7 @@ I have provide a very simple wireframe to understand for this website that highl
 
 
 
-Project Approach
+# ---------Project Approach---------
 •	Nav
 
 Navigate through the four other pages with ease
@@ -193,7 +193,7 @@ Navigate through the four other pages with ease
  
  
  
-# Project Deployment
+# --------Project Deployment----------
 
 
 
