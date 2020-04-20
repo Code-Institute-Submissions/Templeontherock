@@ -44,16 +44,16 @@ Technologies Used
 
 
 
-Testing
+-----Testing-----
 
 •	The majority of the testing took part in Chrome and Microsoft Explorer developer tools to test the responsiveness of the website from one device be it small smart phone up to a desktop layout of the website, then i had to marry this with different browsers.
 
 •	There were many challenges in fitting what content and design i want to put into each device and which to take out for the good of the website. There was also slight variation between what you can do in each browser, but the majority between google and Microsoft explorer were similar.
 
 
-Content
+------Content-----
 
-Home
+# Home
 
 1	Tour
 
@@ -67,7 +67,7 @@ Home
 
 
 
-Albums
+# Albums
 
 1	New album
 
@@ -78,7 +78,7 @@ Albums
 4	What the songs were about
 
 
-Tour
+# Tour
 
 1	Concert dates
 
@@ -86,7 +86,7 @@ Tour
 
 3	Images of live concerts
 
-Merchandise
+# Merchandise
 
 1	T-shirts for sale
 
@@ -95,12 +95,12 @@ Merchandise
 3	Images of tour
 
 
-The band(about)
+# The band(about)
 
 1	Each of the band member stories
 
 
-UX 
+--------UX --------------
 
 •	achieving the main goal and functions
 
@@ -138,7 +138,7 @@ what the end result boils down to was whether the user will take action and by h
 I have provide a very simple wireframe to understand for this website that highlights the importance that each section of the website had, be it albums, tours, merchandise and about the band.
 
 
-UI 
+----------UI--------------
 
 •	My goal as the user interface developer was to make the user's interaction as simple and efficient as possible which i think i have achive through user-centered design.
 
@@ -152,7 +152,7 @@ UI
 
 
 
-File Management
+# File Management
 
 •	CSS(folder)
 
@@ -193,7 +193,7 @@ Navigate through the four other pages with ease
  
  
  
-Project Deployment
+# Project Deployment
 
 
 
