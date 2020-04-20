@@ -155,7 +155,9 @@ I have provide a very simple wireframe to understand for this website that highl
 Main colors i used are as follows:
 
 #e60000  dark red
+
 #000000  Black
+
 #ffffff  White
 
 # ------- File Management------------
