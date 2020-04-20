@@ -204,7 +204,7 @@ Navigate through the four other pages with ease
  
  
 # --------Project Deployment----------
-
+I did not need to deploy it locally, but i did deploy through the github pages in settings
 
 
 
