@@ -219,3 +219,14 @@ I did not need to deploy it locally, but i did deploy through the github pages i
 
 
 
+# -----Acknowlegements and credits
+
+• Javacript, CSS, Bootstrap - W3schools
+
+• cssgradient.io
+
+• CSS Tutorial - Tutorialspoint
+
+• www.csstutorial.net
+
+• developer.mozilla.org
