@@ -150,7 +150,13 @@ I have provide a very simple wireframe to understand for this website that highl
 
 •	The aesthetic quality of the website will enhance the user ui and ux of the website. Therefore increasing the likelihood of a interaction via email or sales on the website. 
 
+# --------Color Scheme----------
 
+Main colors i used are as follows:
+
+#e60000  dark red
+#000000  Black
+#ffffff  White
 
 # ------- File Management------------
 
