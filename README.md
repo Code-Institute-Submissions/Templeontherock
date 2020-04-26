@@ -9,7 +9,7 @@ https://anthony-keogh.github.io/Templeontherock/
 
 # Objective
 
-To create a stunning responsive website for a rock band that would persuade users to take action and to promote new tours, albums and merchandise. The brief was to create an old rock band, but i decided to provide a modern twist in order to show off more of my skill as a software developer and designer by incorporating new look and modern taste which my future employer would take note of.
+To create a stunning responsive website for a rock band that would persuade users to take action and to promote new tours, albums and merchandise. The brief was to create an old rock band, but I decided to provide a modern twist in order to show off more of my skill as a software developer and designer by incorporating new look and modern taste which my future employer would take note of.
 
 Project’s Core Functionality
 
@@ -58,9 +58,9 @@ https://github.com/anthony-keogh/Templeontherock/blob/master/1st-project-wirefra
 
 # Testing
 
-•	The majority of the testing took part in Chrome and Microsoft Explorer developer tools to test the responsiveness of the website from one device be it small smart phone up to a desktop layout of the website, then i had to marry this with different browsers.
+•	The majority of the testing took part in Chrome and Microsoft Explorer developer tools to test the responsiveness of the website from one device be it small smart phone up to a desktop layout of the website, then I had to marry this with different browsers.
 
-•	There were many challenges in fitting what content and design i want to put into each device and which to take out for the good of the website. There was also slight variation between what you can do in each browser, but the majority between google and Microsoft explorer were similar.
+•	There were many challenges in fitting what content and design I want to put into each device and which to take out for the good of the website. There was also slight variation between what you can do in each browser, but the majority between google and Microsoft explorer were similar.
 
 ------chrome testing--------
 https://github.com/anthony-keogh/Templeontherock/tree/master/1st-project-testing/chrome
@@ -131,7 +131,7 @@ https://github.com/anthony-keogh/Templeontherock/tree/master/1st-project-testing
 
 # User Experience
 
-•	achieving the main goal and functions
+•	Achieving the main goal and functions
 
 As mention above the main functions of the website were 
 
@@ -142,42 +142,42 @@ As mention above the main functions of the website were
 3.	Persuasion
       So the user experience was based on these factors and every decision was built around whether it improved these three functions or not.
 
-•	user-friendly
+•	User-friendly
 
 This was the most important factor when analysing user experience for both the user and the browser to recognise it as a well run website. The navigation, aesthetics and the familiarity was on point and i made it very simple to use. 
 
-•	behavioural psychology
+•	Behavioural psychology
 
-i Incorporated different design, images, fonts and words to get the user to feel a certain way to increase the chance of them taking actions and coming back to the website for a second visit.
+I Incorporated different designs, images, fonts and words to get the user to feel a certain way to increase the chance of them taking actions and coming back to the website for a second visit.
 
-•	optimised website goals
+•	Optimised website goals
 
-i put in place solid ux methods and steps that will give the website a platform on how to improve going forward and a measuring tool to analyse what didn’t go well and what was a success.
+I put in place solid ux methods and steps that will give the website a platform on how to improve going forward and a measuring tool to analyse what didn’t go well and what was a success.
 
-•	making the website interesting
+•	Making the website interesting
 
-the website has character and a show topping design to make the user browse more around the website and stay on that website a little longer to increase the odds of a great user experience and ultimately enhance the satisfaction of the consumer
+The website has character and a show topping design to make the user browse more around the website and stay on that website a little longer to increase the odds of a great user experience and ultimately enhance the satisfaction of the consumer
 
-•	selling the product 
+•	Selling the product 
 
-what the end result boils down to was whether the user will take action and by having all these ux steps and processes in place it will give the rock band a better percentage of the user actually following up and buying items or tickets on the website.
+What the end result boils down to was whether the user will take action and by having all these ux steps and processes in place it will give the rock band a better percentage of the user actually following up and buying items or tickets on the website.
 
 •	Wireframe diagram
 
-I have provide a very simple wireframe to understand for this website that highlights the importance that each section of the website had, be it albums, tours, merchandise and about the band.
+I had to provide a very simple wireframe to understand for this website that highlights the importance that each section of the website had, be it albums, tours, merchandise and about the band.
 
 
 # User Interface
 
-•	My goal as the user interface developer was to make the user's interaction as simple and efficient as possible which i think i have achive through user-centered design.
+•	My goal as the user interface developer was to make the user's interaction as simple and efficient as possible which I think I have achieve through user-centered design.
 
 •	I provided a well Guided behaviour navigation through the website with design patterns, and a clear, but simple hierarchy and readability for the user.
 
-•	The Key sections of the website(tour, about, albums and merchandise) are very eye catching to increase the user’s attention
+•	The Key sections of the website (tour, about, albums and merchandise) are very eye catching to increase the user’s attention
 
-•	I provided a well thought out design a next step for each user interaction a person has with your interface of the website. I show familiarity in terms of what the user is going to anticipate what the next interaction should be and design to support it. 
+•	I provided a well thought out design for each user interaction a person has with your interface of the website. I show familiarity in terms of what the user is going to anticipate what the next interaction should be and design to support it. 
 
-•	The aesthetic quality of the website will enhance the user ui and ux of the website. Therefore increasing the likelihood of a interaction via email or sales on the website. 
+•	The aesthetic quality of the website will enhance the user UI and UX of the website. Therefore increasing the likelihood of a interaction via email or sales on the website. 
 
 # Color Scheme
 
