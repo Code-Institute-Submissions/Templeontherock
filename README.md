@@ -9,7 +9,8 @@ https://anthony-keogh.github.io/Templeontherock/
 
 # Objective
 
-To create a stunning responsive website for a rock band that would persuade users to take action and to promote new tours, albums and merchandise.
+To create a stunning responsive website for a rock band that would persuade users to take action and to promote new tours, albums and merchandise. The brief was to create an old rock band, but i decided to provide a modern twist in order to show off more of my skill as a software developer and designer by incorporating new look and modern taste which my future employer would take note of.
+
 Project’s Core Functionality
 
 •	Standalone design
