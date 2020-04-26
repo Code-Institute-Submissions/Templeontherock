@@ -1,4 +1,8 @@
-﻿# Templeontherock
+﻿# User Centric Front End Development with HTML & CSS : Templeontherock
+ 
+1st Milestone Project module in User Centric Front End Development with HTML & CSS for Code Institute. Its part of the Full Stack Software Development Diploma online course.
+
+
 Live website below
 
 https://anthony-keogh.github.io/Templeontherock/
