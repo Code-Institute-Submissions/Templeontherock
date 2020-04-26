@@ -44,12 +44,23 @@ To give the user a good reason to follow the up and coming albums, tours and mer
 •	cssgradient.io
 
 
+# Wireframe
+
+https://github.com/anthony-keogh/Templeontherock/blob/master/1st-project-wireframe.png
+
 
 # Testing
 
 •	The majority of the testing took part in Chrome and Microsoft Explorer developer tools to test the responsiveness of the website from one device be it small smart phone up to a desktop layout of the website, then i had to marry this with different browsers.
 
 •	There were many challenges in fitting what content and design i want to put into each device and which to take out for the good of the website. There was also slight variation between what you can do in each browser, but the majority between google and Microsoft explorer were similar.
+
+------chrome testing--------
+https://github.com/anthony-keogh/Templeontherock/tree/master/1st-project-testing/chrome
+
+------ internet explorer (microsoft)-------
+
+https://github.com/anthony-keogh/Templeontherock/tree/master/1st-project-testing/microsoft
 
 
 # Content
