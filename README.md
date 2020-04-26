@@ -27,25 +27,27 @@ To give the user a good reason to follow the up and coming albums, tours and mer
 
 # Technologies Used
 
-•	Html5
+      •	Html5
 
-•	css 
+      •	CSS 
 
-•	javascript
+      •	Javascript
 
-•	bootstrap
+      •	Bootstrap
 
-•	flexbox
+      •	Flexbox
 
-•	Chrome and Firefox developer tools
+      •	Chrome and Firefox developer tools
 
-•	visual studio code
+      •	Visual studio code (Microsoft)
 
-•	jquery
+      •	jQuery
 
-•	photoshop
+      •	Photoshop (adobe)
+      
+      • Illustrator (adobe)
 
-•	cssgradient.io
+      •	cssgradient.io
 
 
 # Wireframe
@@ -71,59 +73,59 @@ https://github.com/anthony-keogh/Templeontherock/tree/master/1st-project-testing
 
 # Home
 
-https://anthony-keogh.github.io/Templeontherock/
+        https://anthony-keogh.github.io/Templeontherock/
 
-1	Tour
+        1.	Tour
 
-2	Band
+        2.	Band
 
-3	Albums
+        3.	Albums
 
-4	Gallery of tour
+        4.	Gallery of tour
 
-5	About the band
+        5.	About the band
 
 
 
 # Albums
 
-https://anthony-keogh.github.io/Templeontherock/albums.html
+         https://anthony-keogh.github.io/Templeontherock/albums.html
 
-1	New album
+         1.	New album
 
-2	Collection of all albums
+         2.	Collection of all albums
 
-3	Recording the album in studio
+         3.	Recording the album in studio
 
-4	What the songs were about
+         4.	What the songs were about
 
 
 # Tour
 
-https://anthony-keogh.github.io/Templeontherock/tour.html
+         https://anthony-keogh.github.io/Templeontherock/tour.html
 
-1	Concert dates
+         1.	Concert dates
 
-2	Gallery of tour
+         2.	Gallery of tour
 
-3	Images of live concerts
+         3.	Images of live concerts
 
 # Merchandise
 
-https://anthony-keogh.github.io/Templeontherock/merchandise.html
+         https://anthony-keogh.github.io/Templeontherock/merchandise.html
 
-1	T-shirts for sale
+         1.	T-shirts for sale
 
-2	Hoodies for sale
+         2.	Hoodies for sale
 
-3	Images of tour
+         3.	Images of tour
 
 
 # The band(about)
 
-https://anthony-keogh.github.io/Templeontherock/about.html
+         https://anthony-keogh.github.io/Templeontherock/about.html
 
-1	Each of the band member stories
+         1.	Each of the band member stories
 
 
 # User Experience
@@ -178,54 +180,52 @@ I have provide a very simple wireframe to understand for this website that highl
 
 # Color Scheme
 
-Main colors i used are as follows:
+    Main colors i used are as follows:
 
-#e60000  dark red
+    #e60000  dark red
 
-#000000  Black
+    #000000  Black
 
-#ffffff  White
+    #ffffff  White
 
 #  File Management
 
-•     1st-project-testing(folder)
+      • 1st-project-testing(folder)
 
-•	CSS(folder)
+      •	CSS(folder)
 
-•	Images(folder)
+      •	Images(folder)
 
-•	JS(folder)
+      •	JS(folder)
 
-•	Templates(folder)
+      •	Templates(folder)
 
-•	Readme file
+      •	Readme file
 
-•	Wireframe
+      •	Wireframe
 
 
 
 
 # Project Approach
 
-•	Nav
-
-Navigate through the four other pages with ease
-•	Main body
-
-
-1. Tour
-
-2. Albums
-
-3. About the band
-
-4. merchandise
+       •	Nav
+            Navigate through the four other pages with ease
+       •	Main body
 
 
+       1. Tour
 
-•	Footer
+       2. Albums
 
- contact
+       3. About the band
+
+       4. merchandise
+
+
+       •	Footer
+
+       • contact
  
  
  
@@ -238,12 +238,12 @@ I did not need to deploy it locally, but i did deploy through the github pages i
 
 # Acknowlegements and credits
 
-• Javacript, CSS, Bootstrap - W3schools
+      • Javacript, CSS, Bootstrap - W3schools
 
-• cssgradient.io
+      • cssgradient.io
 
-• CSS Tutorial - Tutorialspoint
+      • CSS Tutorial - Tutorialspoint
 
-• www.csstutorial.net
+      • www.csstutorial.net
 
-• developer.mozilla.org
+      • developer.mozilla.org
